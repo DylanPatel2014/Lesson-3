@@ -1,0 +1,9 @@
+age=11
+weight=57.94
+student=True
+name="Dylan"
+age=str(age)
+print(type(age))
+weight=int(weight)
+print(weight)
+print(type(weight))
